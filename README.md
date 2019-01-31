@@ -1,5 +1,7 @@
 # Automatically download photos from a link in an email via Google Apps Scripts
 
+![](assets/2.jpg)
+
 Okay, here's a very specific problem that I solved:
 
 My partner and I hire an amazing dog walking service in Philadelphia.  On most days that they walk our dog, they'll send a picture or two of her, along with a short description of the walk, as a "report card."
@@ -36,3 +38,5 @@ You'll now need to do two more things:
 * Go to script.google.com and add a new trigger for your script.  I've set mine to run every day, an hour or so after we normally get the email.
 
 And that's it!  Go forth and archive. 
+
+![](assets/1.jpg)
